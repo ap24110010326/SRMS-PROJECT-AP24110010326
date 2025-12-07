@@ -1,0 +1,4 @@
+SRMS PROJECT LOGIN CREDITINALS
+
+username: admin
+password: admin123
